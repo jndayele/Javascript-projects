@@ -1,0 +1,15 @@
+img {
+    width: 200;
+    height: 200;
+}
+
+.image {
+    align-items: center;
+
+}
+
+.btn {
+    align-items: center;
+    width: 50;
+    border-radius: 10%;
+}
